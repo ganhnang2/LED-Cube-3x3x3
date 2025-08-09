@@ -3,12 +3,11 @@ in this project can be turned on and off independently, and you can make some re
 
 </p>
 ### Pin Conections 
-</p>
-| Arduino Pin |         Device         |
-|:-----------:|------------------------|
-| 2           | Common Cathnode Layer 1|
-| 12          | Common Cathnode Layer 2|
-| 13          | Common Cathnode Layer 3|
+| Arduino Pin | Device                  |
+|:-----------:|-------------------------|
+| 2           | Common Cathnode Layer 1 |
+| 12          | Common Cathnode Layer 2 |
+| 13          | Common Cathnode Layer 3 |
 | 3           | Common Anode Row 1 Col 1|
 | 4           | Common Anode Row 1 Col 2|
 | 5           | Common Anode Row 1 Col 3|
