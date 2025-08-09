@@ -2,7 +2,8 @@ LED cubes require some care and good soldering skills to make, but they make ver
 in this project can be turned on and off independently, and you can make some really interesting animation effects even with just 3 × 3 × 3 pixels.
 
 </p>
-### Pin Conections </p>
+### Pin Conections 
+</p>
 | Arduino Pin |         Device         |
 |:-----------:|------------------------|
 | 2           | Common Cathnode Layer 1|
