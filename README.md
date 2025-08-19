@@ -1,10 +1,10 @@
 LED cubes require some care and good soldering skills to make, but they make very effective light displays. Every one of the 27 LEDs
 in this project can be turned on and off independently, and you can make some really interesting animation effects even with just 3 × 3 × 3 pixels.
 
-</p>
+
 ### Pin Conections 
 | Arduino Pin | Device                  |
-|:-----------:|-------------------------|
+|-------------|-------------------------|
 | 2           | Common Cathnode Layer 1 |
 | 12          | Common Cathnode Layer 2 |
 | 13          | Common Cathnode Layer 3 |
